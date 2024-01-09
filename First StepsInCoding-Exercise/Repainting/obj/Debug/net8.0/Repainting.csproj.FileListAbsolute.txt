@@ -1,0 +1,14 @@
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\bin\Debug\net8.0\Repainting.exe
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\bin\Debug\net8.0\Repainting.deps.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\bin\Debug\net8.0\Repainting.runtimeconfig.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\bin\Debug\net8.0\Repainting.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\bin\Debug\net8.0\Repainting.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\Repainting.AssemblyInfoInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\Repainting.AssemblyInfo.cs
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\Repainting.csproj.CoreCompileInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\Repainting.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\refint\Repainting.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\Repainting.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\Repainting.genruntimeconfig.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Repainting\obj\Debug\net8.0\ref\Repainting.dll

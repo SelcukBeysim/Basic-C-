@@ -1,0 +1,14 @@
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\bin\Debug\net8.0\Vacation Books List.exe
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\bin\Debug\net8.0\Vacation Books List.deps.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\bin\Debug\net8.0\Vacation Books List.runtimeconfig.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\bin\Debug\net8.0\Vacation Books List.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\bin\Debug\net8.0\Vacation Books List.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\Vacation Books List.AssemblyInfoInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\Vacation Books List.AssemblyInfo.cs
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\Vacation Books List.csproj.CoreCompileInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\Vacation Books List.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\refint\Vacation Books List.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\Vacation Books List.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\Vacation Books List.genruntimeconfig.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Vacation Books List\obj\Debug\net8.0\ref\Vacation Books List.dll

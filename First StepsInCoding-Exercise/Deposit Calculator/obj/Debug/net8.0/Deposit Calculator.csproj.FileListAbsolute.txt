@@ -1,0 +1,14 @@
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\bin\Debug\net8.0\Deposit Calculator.exe
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\bin\Debug\net8.0\Deposit Calculator.deps.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\bin\Debug\net8.0\Deposit Calculator.runtimeconfig.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\bin\Debug\net8.0\Deposit Calculator.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\bin\Debug\net8.0\Deposit Calculator.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\Deposit Calculator.AssemblyInfoInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\Deposit Calculator.AssemblyInfo.cs
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\Deposit Calculator.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\refint\Deposit Calculator.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\Deposit Calculator.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\Deposit Calculator.genruntimeconfig.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Deposit Calculator\obj\Debug\net8.0\ref\Deposit Calculator.dll

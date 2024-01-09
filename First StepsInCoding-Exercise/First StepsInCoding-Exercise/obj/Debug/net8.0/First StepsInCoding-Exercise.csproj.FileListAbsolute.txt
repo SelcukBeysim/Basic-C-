@@ -1,0 +1,14 @@
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\bin\Debug\net8.0\First StepsInCoding-Exercise.exe
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\bin\Debug\net8.0\First StepsInCoding-Exercise.deps.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\bin\Debug\net8.0\First StepsInCoding-Exercise.runtimeconfig.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\bin\Debug\net8.0\First StepsInCoding-Exercise.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\bin\Debug\net8.0\First StepsInCoding-Exercise.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\First StepsInCoding-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\First StepsInCoding-Exercise.AssemblyInfoInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\First StepsInCoding-Exercise.AssemblyInfo.cs
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\First StepsInCoding-Exercise.csproj.CoreCompileInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\First StepsInCoding-Exercise.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\refint\First StepsInCoding-Exercise.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\First StepsInCoding-Exercise.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\First StepsInCoding-Exercise.genruntimeconfig.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\First StepsInCoding-Exercise\obj\Debug\net8.0\ref\First StepsInCoding-Exercise.dll

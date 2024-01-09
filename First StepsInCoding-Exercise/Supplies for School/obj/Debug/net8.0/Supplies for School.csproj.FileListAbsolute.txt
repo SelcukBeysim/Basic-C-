@@ -1,0 +1,14 @@
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\bin\Debug\net8.0\Supplies for School.exe
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\bin\Debug\net8.0\Supplies for School.deps.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\bin\Debug\net8.0\Supplies for School.runtimeconfig.json
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\bin\Debug\net8.0\Supplies for School.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\bin\Debug\net8.0\Supplies for School.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\Supplies for School.AssemblyInfoInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\Supplies for School.AssemblyInfo.cs
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\Supplies for School.csproj.CoreCompileInputs.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\Supplies for School.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\refint\Supplies for School.dll
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\Supplies for School.pdb
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\Supplies for School.genruntimeconfig.cache
+C:\BP-C# Doc\First StepsInCoding-Exercise\Supplies for School\obj\Debug\net8.0\ref\Supplies for School.dll
